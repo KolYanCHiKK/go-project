@@ -9,3 +9,7 @@ func main() {
 func getName() {
 	fmt.Println("myName")
 }
+
+func getSurname() {
+	fmt.Println("mySurname")
+}
