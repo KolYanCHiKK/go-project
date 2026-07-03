@@ -13,3 +13,7 @@ func getName() {
 func getSurname() {
 	fmt.Println("mySurname")
 }
+
+func newF() {
+
+}
