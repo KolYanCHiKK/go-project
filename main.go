@@ -17,3 +17,7 @@ func getSurname() {
 func newF() {
 
 }
+
+func m() {
+	fmt.Println("GDGDGDG")
+}
