@@ -42,5 +42,6 @@ func createRandomSlice(ch chan<- int) {
 		ch <- number
 		slice = append(slice, number)
 	}
+
 	close(ch)
 }
